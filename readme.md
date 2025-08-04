@@ -75,7 +75,6 @@ python breakout_game.py
 
 ## 🎨 게임 스크린샷
 
-
 ![게임 이미지](./block.png)
 
 
